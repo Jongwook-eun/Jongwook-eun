@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Charlie (Jongwook Eun)
+## 👋 Hi there, I'm Aiden (Jongwook Eun)
 
 📊 Certified Public Accountant (KICPA) based in Seoul, South Korea  
 🎓 OMSA Graduate Student at Georgia Tech (Class of 2027)  
