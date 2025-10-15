@@ -8,7 +8,7 @@
 I'm passionate about combining finance and data analytics to solve real-world business problems.  
 Currently focusing on Python, R, and statistical modeling to drive data-driven decision-making.
 
-🔎 Interests: Data Analytics · Valuation · Machine Learning · Corporate Finance  
+🔎 Interests: Data Analytics · Valuation · Machine Learning · Financial Due Diligence  
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/eunjongwook) | [Email](mailto:eunjongwook@gmail.com)
 
 ---
@@ -23,5 +23,5 @@ Currently focusing on Python, R, and statistical modeling to drive data-driven d
 재무와 데이터분석을 결합해 실제 비즈니스 문제를 해결하는데 관심이 있으며,  
 현재는 Python, R, 그리고 통계모델링을 활용한 데이터기반 의사결정기법을 공부하고 있습니다.
 
-🔎 관심분야: 데이터분석 · 가치평가 · 머신러닝 · 기업재무  
+🔎 관심분야: 데이터분석 · 가치평가 · 머신러닝 · 재무실사  
 📫 연락하기: [LinkedIn](https://www.linkedin.com/in/eunjongwook) | [Email](mailto:eunjongwook@gmail.com)
