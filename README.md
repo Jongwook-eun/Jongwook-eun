@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Jaden (Jongwook Eun)
 
 📊 Certified Public Accountant (KICPA)  
-🎓 B.A. in Economics (AI Convergence Track), Yonsei University
+🎓 B.A. in Economics (AI Convergence Track), Yonsei University  
 💼 Working in Financial Advisory (Deals) at PwC Korea  
 ⚙️ OMSA Graduate Student at Georgia Tech (Class of 2027)  
 
