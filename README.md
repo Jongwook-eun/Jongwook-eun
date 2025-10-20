@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Jaden (Jongwook Eun)
+## 👋 Hi, I'm Jongwook Eun
 
 📊 Certified Public Accountant (KICPA)  
 🎓 B.A. in Economics (AI Convergence Track), Yonsei University  
